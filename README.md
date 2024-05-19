@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution here](https://www.frontendmentor.io/solutions/responsive-mobile-first-mMkuBDAR0-)
-- Live Site URL: [Live site UTL](https://altera21.github.io/social-proof-section-master/)
+- Live Site URL: [Live site URL](https://altera21.github.io/social-proof-section-master/)
 
 ## My process
 
